@@ -1,114 +1,810 @@
 {
-  "questions": [
+  "surah": 18,
+  "name": "Al-Kahf",
+  "topics": [
     {
-      "question": "Qui sont les jeunes mentionnés au début de la sourate Al-Kahf ?",
-      "choices": [
-        "Des prophètes",
-        "Des rois",
-        "Des jeunes croyants fuyant l'injustice",
-        "Des savants"
-      ],
-      "answer": 2
+      "id": "ashab_al_kahf",
+      "label": "Les gens de la caverne",
+      "questions": [
+        {
+          "id": "ak_01",
+          "difficulty": 1,
+          "question": "Pourquoi les jeunes ont-ils quitté leur peuple pour se réfugier ?",
+          "choices": [
+            "Ils voulaient voyager",
+            "Ils fuyaient l'oppression et voulaient préserver leur foi",
+            "Ils cherchaient un trésor",
+            "Ils avaient perdu leur famille"
+          ],
+          "answer": 1,
+          "explanation": "Ils fuient l'injustice religieuse pour protéger leur foi."
+        },
+        {
+          "id": "ak_02",
+          "difficulty": 1,
+          "question": "Où se sont-ils réfugiés ?",
+          "choices": [
+            "Dans une vallée",
+            "Dans un palais",
+            "Dans une caverne",
+            "Dans un village lointain"
+          ],
+          "answer": 2,
+          "explanation": "Ils se réfugient dans une caverne (al-kahf)."
+        },
+        {
+          "id": "ak_03",
+          "difficulty": 1,
+          "question": "Quel acte spirituel font-ils en arrivant dans la caverne ?",
+          "choices": [
+            "Ils jurent de ne plus parler",
+            "Ils invoquent Allah pour Sa miséricorde et une issue juste",
+            "Ils allument un feu pour se réchauffer",
+            "Ils écrivent une lettre à leur peuple"
+          ],
+          "answer": 1,
+          "explanation": "Ils demandent la miséricorde et la guidance d'Allah."
+        },
+        {
+          "id": "ak_04",
+          "difficulty": 1,
+          "question": "Quel signe accompagne leur histoire et renforce l'idée de miracle ?",
+          "choices": [
+            "Un tremblement de terre",
+            "La protection d'Allah sur leur sommeil prolongé",
+            "La pluie qui ne s'arrête pas",
+            "Une armée qui disparaît"
+          ],
+          "answer": 1,
+          "explanation": "Le sommeil prolongé est un signe et une protection."
+        },
+        {
+          "id": "ak_05",
+          "difficulty": 1,
+          "question": "Quel animal est mentionné avec eux dans le récit ?",
+          "choices": [
+            "Un cheval",
+            "Un chat",
+            "Un chien",
+            "Un chameau"
+          ],
+          "answer": 2,
+          "explanation": "Le chien est mentionné dans le récit."
+        },
+        {
+          "id": "ak_06",
+          "difficulty": 2,
+          "question": "Quand ils se réveillent, que pensent-ils d'abord de la durée passée ?",
+          "choices": [
+            "Ils pensent avoir dormi des années",
+            "Ils pensent avoir dormi un jour ou une partie d'un jour",
+            "Ils pensent avoir dormi une semaine",
+            "Ils pensent ne pas avoir dormi"
+          ],
+          "answer": 1,
+          "explanation": "Ils estiment d'abord une durée très courte."
+        },
+        {
+          "id": "ak_07",
+          "difficulty": 2,
+          "question": "Quelle précaution prennent-ils quand l'un d'eux part en ville ?",
+          "choices": [
+            "Qu'il parle fort pour être reconnu",
+            "Qu'il se cache et soit discret",
+            "Qu'il prenne de l'or visible",
+            "Qu'il demande de l'aide au roi"
+          ],
+          "answer": 1,
+          "explanation": "Ils craignent d'être repérés et restent prudents."
+        },
+        {
+          "id": "ak_08",
+          "difficulty": 1,
+          "question": "Quel enseignement général est renforcé par leur histoire ?",
+          "choices": [
+            "La richesse protège toujours",
+            "Allah protège les croyants sincères",
+            "La ruse vaut mieux que la foi",
+            "Il faut éviter toute société"
+          ],
+          "answer": 1,
+          "explanation": "Allah accorde protection et issue aux croyants sincères."
+        },
+        {
+          "id": "ak_09",
+          "difficulty": 2,
+          "question": "Quelle attitude la sourate encourage sur les détails (ex: leur nombre) ?",
+          "choices": [
+            "Se disputer longuement dessus",
+            "Ignorer complètement le récit",
+            "Éviter les polémiques inutiles et se concentrer sur la leçon",
+            "Inventer des détails"
+          ],
+          "answer": 2,
+          "explanation": "La sourate recentre sur l'essentiel : la foi et la leçon."
+        },
+        {
+          "id": "ak_10",
+          "difficulty": 2,
+          "question": "Quel lien le récit fait-il avec la Résurrection ?",
+          "choices": [
+            "Aucun lien",
+            "Il nie la Résurrection",
+            "Il montre qu'Allah est capable de ressusciter",
+            "Il remplace la Résurrection"
+          ],
+          "answer": 2,
+          "explanation": "Le miracle renforce l'idée de la puissance d'Allah sur la résurrection."
+        },
+        {
+          "id": "ak_11",
+          "difficulty": 1,
+          "question": "Leur refuge principal illustre quel comportement ?",
+          "choices": [
+            "La fuite par lâcheté",
+            "La patience et la recherche d'une issue licite",
+            "L'abandon total des responsabilités",
+            "La haine des gens"
+          ],
+          "answer": 1,
+          "explanation": "Ils cherchent une issue pour préserver leur foi sans injustice."
+        },
+        {
+          "id": "ak_12",
+          "difficulty": 2,
+          "question": "Pourquoi l'envoi en ville est-il risqué ?",
+          "choices": [
+            "La ville est loin",
+            "Leur monnaie/identité pourrait les trahir",
+            "Il n'y a pas de nourriture",
+            "Ils ne parlent pas la langue"
+          ],
+          "answer": 1,
+          "explanation": "Le temps a passé : leur monnaie/situation peut révéler leur histoire."
+        },
+        {
+          "id": "ak_13",
+          "difficulty": 1,
+          "question": "Quel est le point commun central des jeunes ?",
+          "choices": [
+            "Ils sont très riches",
+            "Ils sont des guerriers célèbres",
+            "Ils sont jeunes et croyants, attachés à la foi",
+            "Ils sont des commerçants"
+          ],
+          "answer": 2,
+          "explanation": "Le récit met en avant leur foi, leur courage et leur jeunesse."
+        },
+        {
+          "id": "ak_14",
+          "difficulty": 2,
+          "question": "Le récit insiste sur quel type d'aide d'Allah ?",
+          "choices": [
+            "Une aide uniquement matérielle",
+            "Une aide spirituelle et une protection concrète",
+            "Une aide sans épreuve",
+            "Une aide par la ruse uniquement"
+          ],
+          "answer": 1,
+          "explanation": "Allah accorde guidance (spirituelle) et protection (concrète)."
+        },
+        {
+          "id": "ak_15",
+          "difficulty": 2,
+          "question": "Quel comportement est le plus cohérent avec leur exemple aujourd'hui ?",
+          "choices": [
+            "Se disputer sur les chiffres",
+            "Renforcer sa foi et éviter les situations qui la détruisent",
+            "Se moquer des récits",
+            "Chercher la gloire via la religion"
+          ],
+          "answer": 1,
+          "explanation": "Le récit appelle à la sincérité, à la foi et aux bonnes décisions."
+        }
+      ]
     },
     {
-      "question": "Où les jeunes croyants se sont-ils réfugiés ?",
-      "choices": [
-        "Dans une mosquée",
-        "Dans une montagne",
-        "Dans une caverne",
-        "Dans un désert"
-      ],
-      "answer": 2
+      "id": "two_gardens",
+      "label": "L’homme aux deux jardins",
+      "questions": [
+        {
+          "id": "jg_01",
+          "difficulty": 1,
+          "question": "Quel est le test principal dans l'histoire des deux jardins ?",
+          "choices": [
+            "La force physique",
+            "La richesse (gratitude vs arrogance)",
+            "Le voyage",
+            "La guerre"
+          ],
+          "answer": 1,
+          "explanation": "La richesse est une épreuve : gratitude et humilité ou arrogance."
+        },
+        {
+          "id": "jg_02",
+          "difficulty": 1,
+          "question": "Quelle erreur centrale fait le propriétaire des jardins ?",
+          "choices": [
+            "Il prie trop",
+            "Il attribue tout à lui-même et devient orgueilleux",
+            "Il donne trop aux pauvres",
+            "Il refuse de travailler"
+          ],
+          "answer": 1,
+          "explanation": "Il se sent supérieur et oublie la gratitude envers Allah."
+        },
+        {
+          "id": "jg_03",
+          "difficulty": 2,
+          "question": "Que lui rappelle son compagnon croyant ?",
+          "choices": [
+            "De partir en voyage",
+            "De se vanter encore plus",
+            "De se rappeler Allah et de dire ce qu'Allah veut",
+            "De vendre les jardins"
+          ],
+          "answer": 2,
+          "explanation": "Il lui rappelle l'humilité et le rappel d'Allah (reconnaître la volonté d'Allah)."
+        },
+        {
+          "id": "jg_04",
+          "difficulty": 1,
+          "question": "Quel danger spirituel est illustré par l'abondance des jardins ?",
+          "choices": [
+            "La jalousie des autres seulement",
+            "Le fait d'oublier Allah et l'au-delà",
+            "L'impossibilité de travailler",
+            "Le manque de nourriture"
+          ],
+          "answer": 1,
+          "explanation": "L'abondance peut mener à l'oubli d'Allah et à l'arrogance."
+        },
+        {
+          "id": "jg_05",
+          "difficulty": 2,
+          "question": "Que pense le propriétaire arrogant au sujet de l'Heure (l'au-delà) ?",
+          "choices": [
+            "Il est certain qu'elle arrive bientôt",
+            "Il doute et se croit favorisé quoi qu'il arrive",
+            "Il la confirme et se repent",
+            "Il ne se prononce jamais"
+          ],
+          "answer": 1,
+          "explanation": "Il doute et suppose qu'il restera favorisé, ce qui montre son égarement."
+        },
+        {
+          "id": "jg_06",
+          "difficulty": 1,
+          "question": "Quel est le bon comportement face à un bienfait selon la leçon du récit ?",
+          "choices": [
+            "Se vanter",
+            "Être reconnaissant et humble",
+            "Le cacher par honte",
+            "Mépriser les autres"
+          ],
+          "answer": 1,
+          "explanation": "La gratitude et l'humilité protègent le cœur."
+        },
+        {
+          "id": "jg_07",
+          "difficulty": 2,
+          "question": "Que montre la fin de l'histoire sur la solidité des biens ?",
+          "choices": [
+            "Les biens sont éternels",
+            "Les biens sont un dépôt : ils peuvent disparaître",
+            "Les biens rendent invincible",
+            "Les biens empêchent toute épreuve"
+          ],
+          "answer": 1,
+          "explanation": "Les biens ne sont pas garantis : Allah peut les retirer."
+        },
+        {
+          "id": "jg_08",
+          "difficulty": 2,
+          "question": "Quelle relation la sourate fait-elle entre richesse et salut ?",
+          "choices": [
+            "La richesse garantit le salut",
+            "La pauvreté garantit le salut",
+            "Le salut dépend de la foi et des actes, pas de la richesse",
+            "Le salut dépend du statut social"
+          ],
+          "answer": 2,
+          "explanation": "La foi, l'humilité et les actes comptent, pas l'orgueil ou la richesse."
+        },
+        {
+          "id": "jg_09",
+          "difficulty": 1,
+          "question": "Le compagnon croyant incarne surtout quelle qualité ?",
+          "choices": [
+            "La moquerie",
+            "Le rappel (nasiha) avec sagesse",
+            "La vengeance",
+            "Le silence total"
+          ],
+          "answer": 1,
+          "explanation": "Il conseille avec rappel et sagesse."
+        },
+        {
+          "id": "jg_10",
+          "difficulty": 2,
+          "question": "Quelle leçon sur l'ego ressort le plus de ce passage ?",
+          "choices": [
+            "L'ego doit être nourri",
+            "L'ego est toujours fiable",
+            "L'ego peut tromper et mener à l'arrogance",
+            "L'ego n'existe pas"
+          ],
+          "answer": 2,
+          "explanation": "L'arrogance détruit les œuvres et éloigne d'Allah."
+        },
+        {
+          "id": "jg_11",
+          "difficulty": 1,
+          "question": "Dans l'esprit de la sourate, comment doit-on voir la dunya (ce monde) ?",
+          "choices": [
+            "Comme un but final",
+            "Comme une illusion sans sens",
+            "Comme un test et un passage",
+            "Comme une punition permanente"
+          ],
+          "answer": 2,
+          "explanation": "La dunya est un test : ce qui compte est l'au-delà."
+        },
+        {
+          "id": "jg_12",
+          "difficulty": 2,
+          "question": "Quelle phrase/attitude est la plus cohérente avec la gratitude ?",
+          "choices": [
+            "Je l'ai fait tout seul",
+            "Si Allah veut, c'est par Sa grâce",
+            "Je suis supérieur",
+            "Personne n'a de mérite"
+          ],
+          "answer": 1,
+          "explanation": "Reconnaître la grâce d'Allah protège du kibr (orgueil)."
+        },
+        {
+          "id": "jg_13",
+          "difficulty": 1,
+          "question": "La comparaison entre les deux hommes sert surtout à montrer :",
+          "choices": [
+            "Qui est le plus beau",
+            "Qui est le plus riche",
+            "La différence entre foi humble et arrogance",
+            "La différence d'âge"
+          ],
+          "answer": 2,
+          "explanation": "Le cœur : humilité/foi vs arrogance/oubli."
+        },
+        {
+          "id": "jg_14",
+          "difficulty": 2,
+          "question": "Quel risque principal existe quand on se compare aux autres avec ses biens ?",
+          "choices": [
+            "Avoir plus de sommeil",
+            "Développer l'orgueil et mépriser",
+            "Devenir trop généreux",
+            "Perdre son intelligence"
+          ],
+          "answer": 1,
+          "explanation": "La comparaison nourrit l'ego et le mépris."
+        },
+        {
+          "id": "jg_15",
+          "difficulty": 2,
+          "question": "Quelle est la meilleure conclusion pratique après ce récit ?",
+          "choices": [
+            "Chercher plus de richesse à tout prix",
+            "Nier les bienfaits",
+            "Remercier Allah, rester humble, investir en bonnes œuvres",
+            "S'isoler du monde"
+          ],
+          "answer": 2,
+          "explanation": "Gratitude, humilité et œuvres : c'est la protection du croyant."
+        }
+      ]
     },
     {
-      "question": "Combien de temps les gens de la caverne sont-ils restés endormis ?",
-      "choices": [
-        "100 ans",
-        "200 ans",
-        "300 ans",
-        "309 ans"
-      ],
-      "answer": 3
+      "id": "musa_khidr",
+      "label": "Moussa et Al-Khidr",
+      "questions": [
+        {
+          "id": "mk_01",
+          "difficulty": 1,
+          "question": "Quelle condition Al-Khidr pose à Moussa au début ?",
+          "choices": [
+            "Ne jamais manger",
+            "Être patient et ne pas questionner avant explication",
+            "Payer une somme",
+            "Écrire un contrat"
+          ],
+          "answer": 1,
+          "explanation": "La patience est la condition : attendre l'explication."
+        },
+        {
+          "id": "mk_02",
+          "difficulty": 1,
+          "question": "Quel est le premier acte surprenant d'Al-Khidr ?",
+          "choices": [
+            "Il endommage un bateau",
+            "Il incendie un marché",
+            "Il fuit une ville",
+            "Il enferme des gens"
+          ],
+          "answer": 0,
+          "explanation": "Il abîme le bateau, ce qui choque Moussa."
+        },
+        {
+          "id": "mk_03",
+          "difficulty": 2,
+          "question": "Pourquoi Al-Khidr endommage-t-il le bateau (sens général) ?",
+          "choices": [
+            "Par vengeance",
+            "Pour éviter qu'un tyran le saisisse (sage protection)",
+            "Pour gagner de l'argent",
+            "Sans raison"
+          ],
+          "answer": 1,
+          "explanation": "Derrière l'acte, il y a une sagesse : protéger les propriétaires d'un tyran."
+        },
+        {
+          "id": "mk_04",
+          "difficulty": 1,
+          "question": "Quel est le deuxième acte qui choque Moussa ?",
+          "choices": [
+            "Il tue un enfant",
+            "Il vole de la nourriture",
+            "Il casse une maison",
+            "Il se moque des pauvres"
+          ],
+          "answer": 0,
+          "explanation": "Le meurtre de l'enfant est un choc, d'où la question de Moussa."
+        },
+        {
+          "id": "mk_05",
+          "difficulty": 2,
+          "question": "Pourquoi Al-Khidr tue-t-il l'enfant (sens général) ?",
+          "choices": [
+            "Parce qu'il était pauvre",
+            "Parce qu'il allait mener ses parents à la souffrance spirituelle",
+            "Parce qu'il avait volé",
+            "Pour punir la ville"
+          ],
+          "answer": 1,
+          "explanation": "Sagesse liée à la protection des parents et au futur spirituel."
+        },
+        {
+          "id": "mk_06",
+          "difficulty": 1,
+          "question": "Quel est le troisième acte étonnant d'Al-Khidr ?",
+          "choices": [
+            "Il répare un mur gratuitement",
+            "Il construit un bateau",
+            "Il plante un jardin",
+            "Il fait une prière publique"
+          ],
+          "answer": 0,
+          "explanation": "Il répare le mur sans demander de salaire."
+        },
+        {
+          "id": "mk_07",
+          "difficulty": 2,
+          "question": "Pourquoi Al-Khidr répare-t-il le mur sans salaire ?",
+          "choices": [
+            "Parce qu'il voulait rester célèbre",
+            "Parce qu'un trésor appartenait à deux orphelins et devait être protégé",
+            "Parce que Moussa l'ordonne",
+            "Parce que la ville était riche"
+          ],
+          "answer": 1,
+          "explanation": "Le mur protégeait un trésor destiné aux orphelins."
+        },
+        {
+          "id": "mk_08",
+          "difficulty": 2,
+          "question": "Quelle faiblesse humaine Moussa montre-t-il ici ?",
+          "choices": [
+            "La jalousie",
+            "L'impatience face à ce qu'il ne comprend pas encore",
+            "La peur du voyage",
+            "L'arrogance envers Allah"
+          ],
+          "answer": 1,
+          "explanation": "Il réagit vite, alors que la condition était d'attendre."
+        },
+        {
+          "id": "mk_09",
+          "difficulty": 2,
+          "question": "Quel enseignement sur la connaissance ressort le plus ?",
+          "choices": [
+            "Tout savoir est simple",
+            "L'humilité : on ne sait pas tout, même avec un grand statut",
+            "La science rend supérieur à tous",
+            "Les questions sont interdites"
+          ],
+          "answer": 1,
+          "explanation": "Le récit apprend l'humilité devant la sagesse d'Allah."
+        },
+        {
+          "id": "mk_10",
+          "difficulty": 1,
+          "question": "Quelle qualité Al-Khidr demande-t-il explicitement ?",
+          "choices": [
+            "La richesse",
+            "La patience",
+            "La force",
+            "La ruse"
+          ],
+          "answer": 1,
+          "explanation": "La patience est la clé du récit."
+        },
+        {
+          "id": "mk_11",
+          "difficulty": 2,
+          "question": "Les 3 événements montrent surtout que :",
+          "choices": [
+            "Le mal est toujours visible",
+            "Ce qui semble injuste peut cacher une sagesse",
+            "Il faut juger vite",
+            "Les pauvres sont toujours fautifs"
+          ],
+          "answer": 1,
+          "explanation": "Une apparence négative peut cacher un bien et une protection."
+        },
+        {
+          "id": "mk_12",
+          "difficulty": 2,
+          "question": "Quel comportement est recommandé avant de juger un événement ?",
+          "choices": [
+            "Se moquer",
+            "Être patient et chercher la sagesse",
+            "Accuser quelqu'un",
+            "Ignorer complètement"
+          ],
+          "answer": 1,
+          "explanation": "Patience, réflexion, confiance en Allah."
+        },
+        {
+          "id": "mk_13",
+          "difficulty": 1,
+          "question": "Le récit enseigne surtout une leçon de :",
+          "choices": [
+            "Sport",
+            "Tadabbur (réflexion) et patience",
+            "Cuisine",
+            "Commerce"
+          ],
+          "answer": 1,
+          "explanation": "C'est une leçon de patience et de sagesse."
+        },
+        {
+          "id": "mk_14",
+          "difficulty": 2,
+          "question": "Le mur était lié à quelle catégorie de personnes ?",
+          "choices": [
+            "Des rois",
+            "Deux orphelins",
+            "Des soldats",
+            "Des marchands"
+          ],
+          "answer": 1,
+          "explanation": "Le trésor appartenait à deux orphelins."
+        },
+        {
+          "id": "mk_15",
+          "difficulty": 2,
+          "question": "Le message pratique le plus utile pour aujourd'hui est :",
+          "choices": [
+            "Toujours exiger une explication immédiate",
+            "Rester patient, humble, et ne pas juger trop vite",
+            "Refuser toute sagesse",
+            "Se comparer aux autres"
+          ],
+          "answer": 1,
+          "explanation": "Patience + humilité + confiance : c'est l'esprit du récit."
+        }
+      ]
     },
     {
-      "question": "Pourquoi Allah a-t-il fait dormir les gens de la caverne ?",
-      "choices": [
-        "Pour les punir",
-        "Pour montrer un miracle et les protéger",
-        "Parce qu'ils étaient malades",
-        "Pour les tester"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Quel prophète accompagne Moussa dans une partie de la sourate ?",
-      "choices": [
-        "Ibrahim",
-        "Al-Khidr",
-        "Haroun",
-        "Youssouf"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Pourquoi Al-Khidr a-t-il percé le bateau ?",
-      "choices": [
-        "Par colère",
-        "Pour empêcher des pirates de le prendre",
-        "Par erreur",
-        "Pour le détruire"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Pourquoi Al-Khidr a-t-il tué l'enfant ?",
-      "choices": [
-        "Parce qu'il était méchant",
-        "Parce qu'il allait devenir croyant",
-        "Parce qu'il aurait poussé ses parents à la mécréance",
-        "Sans raison"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Pourquoi Al-Khidr a-t-il réparé le mur gratuitement ?",
-      "choices": [
-        "Par pitié",
-        "Parce qu'il y avait un trésor pour deux orphelins",
-        "Parce que Moussa l'a demandé",
-        "Pour montrer sa force"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Qui est Dhul-Qarnayn ?",
-      "choices": [
-        "Un prophète",
-        "Un roi injuste",
-        "Un roi puissant et juste",
-        "Un ange"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Contre qui Dhul-Qarnayn a-t-il construit une barrière ?",
-      "choices": [
-        "Les Romains",
-        "Les Perses",
-        "Gog et Magog (Ya'jouj et Ma'jouj)",
-        "Les Quraysh"
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Quel est le message principal de la sourate Al-Kahf ?",
-      "choices": [
-        "La richesse est la clé du succès",
-        "La patience, la foi et la sagesse face aux épreuves",
-        "La guerre est obligatoire",
-        "La science suffit seule"
-      ],
-      "answer": 1
+      "id": "dhul_qarnayn",
+      "label": "Dhul-Qarnayn",
+      "questions": [
+        {
+          "id": "dq_01",
+          "difficulty": 1,
+          "question": "Dhul-Qarnayn est présenté comme :",
+          "choices": [
+            "Un tyran méchant",
+            "Un roi puissant doté de moyens, agissant avec justice",
+            "Un simple marchand",
+            "Un ange"
+          ],
+          "answer": 1,
+          "explanation": "Il est décrit comme puissant et agissant avec justice selon les situations."
+        },
+        {
+          "id": "dq_02",
+          "difficulty": 1,
+          "question": "Contre qui Dhul-Qarnayn construit-il une barrière ?",
+          "choices": [
+            "Les Romains",
+            "Ya'juj et Ma'juj",
+            "Les gens de la caverne",
+            "Les marchands"
+          ],
+          "answer": 1,
+          "explanation": "Le peuple demande protection contre Ya'juj et Ma'juj."
+        },
+        {
+          "id": "dq_03",
+          "difficulty": 2,
+          "question": "Quelle qualité ressort quand il traite différents peuples ?",
+          "choices": [
+            "La vengeance systématique",
+            "La justice et l'adaptation selon le comportement",
+            "La fuite",
+            "La négligence"
+          ],
+          "answer": 1,
+          "explanation": "Il agit avec justice : il sanctionne ou bienfait selon les cas."
+        },
+        {
+          "id": "dq_04",
+          "difficulty": 2,
+          "question": "Quand des gens se plaignent d'un danger, Dhul-Qarnayn propose surtout :",
+          "choices": [
+            "De partir ailleurs",
+            "Une solution concrète avec coopération",
+            "De payer une taxe sans aide",
+            "De ne rien faire"
+          ],
+          "answer": 1,
+          "explanation": "Le récit montre l'action concrète et la coopération."
+        },
+        {
+          "id": "dq_05",
+          "difficulty": 1,
+          "question": "Le passage enseigne que le pouvoir est :",
+          "choices": [
+            "Une preuve de supériorité absolue",
+            "Un dépôt / une responsabilité",
+            "Une excuse pour tout",
+            "Inutile"
+          ],
+          "answer": 1,
+          "explanation": "Le pouvoir est une responsabilité devant Allah."
+        },
+        {
+          "id": "dq_06",
+          "difficulty": 2,
+          "question": "Quel esprit doit accompagner les projets importants selon ce récit ?",
+          "choices": [
+            "Arrogance",
+            "Organisation + effort + reconnaissance d'Allah",
+            "Improvisation",
+            "Mépris des autres"
+          ],
+          "answer": 1,
+          "explanation": "Action structurée + humilité + reliance à Allah."
+        },
+        {
+          "id": "dq_07",
+          "difficulty": 2,
+          "question": "Quel danger le récit illustre avec Ya'juj et Ma'juj ?",
+          "choices": [
+            "Un danger inventé",
+            "Un danger réel qui nécessite protection et moyens",
+            "Un danger seulement spirituel",
+            "Un danger uniquement économique"
+          ],
+          "answer": 1,
+          "explanation": "Le récit montre une menace et la mise en place d'une barrière."
+        },
+        {
+          "id": "dq_08",
+          "difficulty": 1,
+          "question": "La construction de la barrière montre surtout :",
+          "choices": [
+            "La magie",
+            "L'usage des moyens et le travail collectif",
+            "L'absence d'effort",
+            "La tricherie"
+          ],
+          "answer": 1,
+          "explanation": "Le récit insiste sur les moyens, l'effort et la coopération."
+        },
+        {
+          "id": "dq_09",
+          "difficulty": 2,
+          "question": "Quelle leçon sur la réussite ressort le plus ?",
+          "choices": [
+            "La réussite vient sans effort",
+            "La réussite vient avec moyens + justice + tawakkul",
+            "La réussite dépend du hasard",
+            "La réussite dépend des moqueries"
+          ],
+          "answer": 1,
+          "explanation": "Moyens + justice + reliance à Allah."
+        },
+        {
+          "id": "dq_10",
+          "difficulty": 2,
+          "question": "Quel danger spirituel peut toucher une personne puissante ?",
+          "choices": [
+            "La gratitude",
+            "L'arrogance",
+            "La patience",
+            "La sincérité"
+          ],
+          "answer": 1,
+          "explanation": "Le pouvoir peut mener au kibr si on oublie Allah."
+        },
+        {
+          "id": "dq_11",
+          "difficulty": 1,
+          "question": "Dhul-Qarnayn est un exemple de leader qui :",
+          "choices": [
+            "Ignore les gens",
+            "Écoute, juge avec équité et agit",
+            "Promet sans agir",
+            "Punît tout le monde"
+          ],
+          "answer": 1,
+          "explanation": "Il écoute et agit, avec justice."
+        },
+        {
+          "id": "dq_12",
+          "difficulty": 2,
+          "question": "Quand un peuple lui propose une rémunération, l'esprit du passage montre :",
+          "choices": [
+            "Qu'il ne veut que l'argent",
+            "Qu'il privilégie l'œuvre utile et l'aide d'Allah plutôt que l'orgueil",
+            "Qu'il refuse toujours d'aider",
+            "Qu'il se moque d'eux"
+          ],
+          "answer": 1,
+          "explanation": "Il met l'accent sur les moyens qu'Allah lui a donnés et l'utilité."
+        },
+        {
+          "id": "dq_13",
+          "difficulty": 2,
+          "question": "La barrière rappelle que certaines protections :",
+          "choices": [
+            "Sont éternelles",
+            "Sont limitées et dépendent de la volonté d'Allah",
+            "Sont impossibles",
+            "Sont seulement symboliques"
+          ],
+          "answer": 1,
+          "explanation": "Le récit rappelle la volonté d'Allah au-dessus de tout."
+        },
+        {
+          "id": "dq_14",
+          "difficulty": 1,
+          "question": "Quel comportement correspond le plus à Dhul-Qarnayn dans la sourate ?",
+          "choices": [
+            "Justice et action",
+            "Moquerie",
+            "Lâcheté",
+            "Trahison"
+          ],
+          "answer": 0,
+          "explanation": "Il est présenté comme juste et actif."
+        },
+        {
+          "id": "dq_15",
+          "difficulty": 2,
+          "question": "La meilleure application pratique de ce passage est :",
+          "choices": [
+            "Construire sans consulter",
+            "Utiliser ses moyens avec justice et pour protéger les gens",
+            "Mépriser les faibles",
+            "Chercher la gloire"
+          ],
+          "answer": 1,
+          "explanation": "Leadership utile : justice, protection, responsabilité."
+        }
+      ]
     }
   ]
 }
