@@ -1,12 +1,112 @@
 {
   "questions": [
     {
-      "question": "Qui accompagne Moussa dans l'histoire avec Al-Khidr ?",
+      "question": "Qui sont les jeunes mentionnés au début de la sourate Al-Kahf ?",
       "choices": [
-        "Pharaon",
+        "Des prophètes",
+        "Des rois",
+        "Des jeunes croyants fuyant l'injustice",
+        "Des savants"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Où les jeunes croyants se sont-ils réfugiés ?",
+      "choices": [
+        "Dans une mosquée",
+        "Dans une montagne",
+        "Dans une caverne",
+        "Dans un désert"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Combien de temps les gens de la caverne sont-ils restés endormis ?",
+      "choices": [
+        "100 ans",
+        "200 ans",
+        "300 ans",
+        "309 ans"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Pourquoi Allah a-t-il fait dormir les gens de la caverne ?",
+      "choices": [
+        "Pour les punir",
+        "Pour montrer un miracle et les protéger",
+        "Parce qu'ils étaient malades",
+        "Pour les tester"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel prophète accompagne Moussa dans une partie de la sourate ?",
+      "choices": [
+        "Ibrahim",
         "Al-Khidr",
-        "Youssouf",
-        "Dhul-Qarnayn"
+        "Haroun",
+        "Youssouf"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pourquoi Al-Khidr a-t-il percé le bateau ?",
+      "choices": [
+        "Par colère",
+        "Pour empêcher des pirates de le prendre",
+        "Par erreur",
+        "Pour le détruire"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Pourquoi Al-Khidr a-t-il tué l'enfant ?",
+      "choices": [
+        "Parce qu'il était méchant",
+        "Parce qu'il allait devenir croyant",
+        "Parce qu'il aurait poussé ses parents à la mécréance",
+        "Sans raison"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Pourquoi Al-Khidr a-t-il réparé le mur gratuitement ?",
+      "choices": [
+        "Par pitié",
+        "Parce qu'il y avait un trésor pour deux orphelins",
+        "Parce que Moussa l'a demandé",
+        "Pour montrer sa force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Qui est Dhul-Qarnayn ?",
+      "choices": [
+        "Un prophète",
+        "Un roi injuste",
+        "Un roi puissant et juste",
+        "Un ange"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Contre qui Dhul-Qarnayn a-t-il construit une barrière ?",
+      "choices": [
+        "Les Romains",
+        "Les Perses",
+        "Gog et Magog (Ya'jouj et Ma'jouj)",
+        "Les Quraysh"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Quel est le message principal de la sourate Al-Kahf ?",
+      "choices": [
+        "La richesse est la clé du succès",
+        "La patience, la foi et la sagesse face aux épreuves",
+        "La guerre est obligatoire",
+        "La science suffit seule"
       ],
       "answer": 1
     }
