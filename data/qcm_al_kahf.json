@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "Qui accompagne Moussa dans l'histoire avec Al-Khidr ?",
+      "choices": [
+        "Pharaon",
+        "Al-Khidr",
+        "Youssouf",
+        "Dhul-Qarnayn"
+      ],
+      "answer": 1
+    }
+  ]
+}
